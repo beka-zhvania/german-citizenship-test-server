@@ -1,0 +1,90 @@
+[
+  {
+    "id": 2,
+    "question": "Welches ist ein Landkreis in Baden-Württemberg?",
+    "options": [
+      "Mecklenburgische Seenplatte",
+      "Neckar-Odenwald-Kreis",
+      "Nordfriesland",
+      "Altötting"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 3,
+    "question": "Für wie viele Jahre wird der Landtag in Baden-Württemberg gewählt?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "question": "Ab welchem Alter darf man in Baden-Württemberg bei Kommunalwahlen wählen?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "question": "Welche Farben hat die Landesflagge von Baden-Württemberg?",
+    "options": [
+      "blau-weiß-rot",
+      "schwarz-gold",
+      "weiß-blau",
+      "grün-weiß-rot"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 6,
+    "question": "Wo können Sie sich in Baden-Württemberg über politische Themen informieren?",
+    "options": [
+      "beim Ordnungsamt der Gemeinde",
+      "bei der Verbraucherzentrale",
+      "bei der Landeszentrale für politische Bildung",
+      "bei den Kirchen"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 7,
+    "question": "Die Landeshauptstadt von Baden-Württemberg heißt …",
+    "options": [
+      "Heidelberg.",
+      "Stuttgart.",
+      "Karlsruhe.",
+      "Mannheim."
+    ],
+    "answer": 1
+  },
+  {
+    "id" : 9,
+    "question" : "Wie nennt man den Regierungschef / die Regierungschefin in Baden-Württemberg?",
+    "options" : [
+      "Erster Minister / Erste Ministerin",
+      "Premierminister / Premierministerin",
+      "Bürgermeister / Bürgermeisterin",
+      "Ministerpräsident / Ministerpräsidentin"
+    ],
+    "answers" : 3
+  },
+  {
+    "id": 10,
+    "question": "Welche Ministerin/welchen Minister hat Baden-Württemberg nicht?",
+    "options": [
+      "Finanzministerin/Finanzminister",
+      "Justizministerin/Justizminister",
+      "Innenministerin/Innenminister",
+      "Außenministerin/Außenminister"
+    ],
+    "answer": 3
+  }
+]
